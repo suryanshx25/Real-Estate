@@ -1,0 +1,9 @@
+streamlit~=1.37.0
+pandas~=2.2.2
+plotly~=5.16.0
+matplotlib~=3.6.2
+seaborn~=0.12.2
+wordcloud~=1.9.3
+numpy~=1.23.2
+requests~=2.31.0
+beautifulsoup4~=4.12.3
